@@ -1,0 +1,8 @@
+Student ID,Name,Math,Science,English,History,Computer,Total Marks,Average Marks,Percentage,Grade,Status
+S101,Rahim Uddin,85.0,90.0,78.0,82.0,88.0,423.0,84.6,84.6,A,Pass
+S102,Karim Ahmed,96.0,98.0,92.0,94.0,99.0,479.0,95.8,95.8,A+,Pass
+S103,Nusrat Jahan,74.0,78.0,70.0,76.0,80.0,378.0,75.6,75.6,B,Pass
+S104,Tanvir Hossain,62.0,65.0,58.0,60.0,66.0,311.0,62.2,62.2,C,Pass
+S105,Sadia Islam,32.0,75.0,80.0,68.0,72.0,327.0,65.4,65.4,F,Fail
+S106,Farhan Labib,52.0,50.0,55.0,54.0,58.0,269.0,53.8,53.8,D,Pass
+S107,Zubair Khan,88.0,92.0,79.0,84.0,90.0,433.0,86.6,86.6,A,Pass
